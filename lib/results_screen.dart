@@ -45,7 +45,7 @@ class ResultsScreen extends StatelessWidget {
             ),
             TextButton(
               onPressed: () {},
-              child: const Text('Testart quiz!'),
+              child: const Text('Restart quiz!'),
             ),
           ],
         ),
