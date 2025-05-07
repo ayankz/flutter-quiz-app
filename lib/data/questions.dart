@@ -10,5 +10,12 @@ const questions = [
     'By using Android Studio'
   ]),
   QuizQuestion(
-      'Capital of Kazakhstan?', ['Almaty', 'Astana', 'Aqtobe', 'Karaganda'])
+      'Capital of Kazakhstan?', ['Almaty', 'Astana', 'Aqtobe', 'Karaganda']),
+  QuizQuestion(
+      'Capital of Uzbekistan?', ['Tashkent', 'Rome', 'Malaga', 'Moskow']),
+  QuizQuestion(
+      'Capital of Spain?', ['Madrid', 'Barcelona', 'Alicante', 'Valencia']),
+  QuizQuestion('Capital of France?', ['Paris', 'Marselle', 'Lion', 'Berlin']),
+  QuizQuestion(
+      'Capital of UK?', ['Londow', 'Liverpool', 'Newcastle', 'Manchester'])
 ];
